@@ -12,7 +12,7 @@ The purpose of the Expense Tracker Application is to give consumers an easy way 
 2. Download the zip file given
 3. Extract the zip file
 4. Open QT application
-5. Select vreate new project
+5. Select create new project
 6. Upload extracted files
 7. Press Run icon
 
