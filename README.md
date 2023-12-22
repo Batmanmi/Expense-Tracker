@@ -1,6 +1,5 @@
 # Expense-Tracker
 
-
 ****************************
        Introduction 
 ****************************
@@ -9,10 +8,10 @@ The purpose of the Expense Tracker Application is to give consumers an easy way 
         How to run 
 ****************************
 1. Download the QT app
-2. Download file given
+2. Download files given
 3. Open QT application
-4. Select create new project
-5. Upload extracted files
+4. Select open project
+5. Upload all files
 6. Press Run icon
 
 ****************************
