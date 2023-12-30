@@ -18,7 +18,8 @@ The purpose of the Expense Tracker Application is to give consumers an easy way 
 
    ![github ss homepage](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/e78f1da8-7c0d-4491-81b0-25350bed9299)
 
-
+   Input:
+   ![image](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/9791d3fc-1d7c-4b17-95b0-7d80c7d42766)
 ****************************
         Purpose 
 ****************************
