@@ -1,4 +1,4 @@
-![github ss homepage](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/39c07c18-0b96-4763-ac54-437c37659127)# Expense-Tracker
+
 
 ****************************
        Introduction 
@@ -15,6 +15,8 @@ The purpose of the Expense Tracker Application is to give consumers an easy way 
 6. Press Run icon
 
    HomePage:
+
+   ![github ss homepage](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/e78f1da8-7c0d-4491-81b0-25350bed9299)
 
 
 ****************************
