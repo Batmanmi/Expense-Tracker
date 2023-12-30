@@ -24,12 +24,11 @@ The purpose of the Expense Tracker Application is to give consumers an easy way 
    Output:
    ![image](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/3eb75f78-a5a1-49ef-92a7-890c0a90f3da)
 
-
-Input FlowChart:
+   Input FlowChart:
    ![image](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/1c414dec-bf4b-4324-86f1-10a414587c87)
 
-Output FlowChart:
-![image](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/7b105899-9556-4269-9b6d-c6be5e26d26f)
+   Output FlowChart:
+   ![image](https://github.com/Batmanmi/Expense-Tracker/assets/154536577/7b105899-9556-4269-9b6d-c6be5e26d26f)
 
 
 ****************************
